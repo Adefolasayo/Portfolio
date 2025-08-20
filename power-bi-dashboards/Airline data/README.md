@@ -81,8 +81,7 @@ Inspired by *Igboejesi Chidera’s* dashboard design process:
 
 ## 👤 Author 
 **Adefolasayo Gboyega-Adejuwon**  
-- 📧 [Your Email Here]  
-- 🌐 [Your Portfolio/LinkedIn Here]  
+- 📧 adetenny9@gmail.com    
 
 ---
 
